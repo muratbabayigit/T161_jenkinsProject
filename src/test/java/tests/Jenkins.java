@@ -65,7 +65,7 @@ public class Jenkins {
 
     @Test
     void Test15(){
-        System.out.println("Merhaba");
+        System.out.println("Merhaba Nasılsın");
     }
 
 
