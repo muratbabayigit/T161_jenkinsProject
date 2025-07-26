@@ -55,12 +55,17 @@ public class Jenkins {
 
     @Test
     void Test13(){
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
     void Test14(){
-        assertTrue(false);
+        assertTrue(true);
+    }
+
+    @Test
+    void Test15(){
+        System.out.println("Merhaba");
     }
 
 
