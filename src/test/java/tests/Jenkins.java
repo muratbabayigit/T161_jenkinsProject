@@ -52,4 +52,9 @@ public class Jenkins {
     void Test12(){
         assertTrue(true);
     }
+
+    @Test
+    void Test13(){
+        assertTrue(true);
+    }
 }
